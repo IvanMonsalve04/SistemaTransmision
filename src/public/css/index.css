@@ -1,0 +1,38 @@
+body{
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(32,1,71,1) 41%, rgba(36,0,144,1) 74%, rgba(49,0,134,1) 100%);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10;
+    padding-top: 50px
+}
+.video-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+h1{
+    color: white;
+    font-size: 60px;
+}
+#video {
+    width: 100%;
+    height: auto;   
+    border: 1px solid #ccc;
+    border-radius: 2%;
+}
+#preview {
+    display: none;
+}
+.containerStatus {
+    background-color: #0000;
+    margin-top: 20px;
+    text-align: center;
+}
+.btn-outline-light{
+    font-size: 18px;
+    color: white;
+    background-color: #0000;
+    border-color: white;
+}
+.status{
+    color: white;
+    font-size: 20px;
+}

@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(32,1,71,1) 41%, rgba(36,0,144,1) 74%, rgba(49,0,134,1) 100%);
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 50px;
+    color: white;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.video-container {
+    width: 100%;
+    height: auto;   
+    border: 1px solid #ccc;
+    border-radius: 2%;
+    margin-top: 20px;
+}
+
